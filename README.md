@@ -1,2 +1,2 @@
 # Brewfile
-Brewfile
+Business Brewfile

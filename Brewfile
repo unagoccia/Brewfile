@@ -72,6 +72,7 @@ cask google-chrome
 cask insomniax
 cask iterm2
 cask limechat
+cask mono-mdk
 cask mysqlworkbench
 cask netbeans
 cask onyx

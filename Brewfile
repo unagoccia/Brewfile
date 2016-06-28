@@ -70,6 +70,7 @@ cask day-o
 cask firefox
 cask google-chrome
 cask insomniax
+cask iterm2
 cask limechat
 cask mysqlworkbench
 cask netbeans
@@ -85,7 +86,6 @@ cask quicklook-csv
 cask quicklook-json
 cask quicksilver
 cask skitch
-cask textmate
 cask the-unarchiver
 cask vagrant
 cask virtualbox

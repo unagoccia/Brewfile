@@ -102,6 +102,3 @@ appstore 748212890 Memory Monitor
 appstore 416285394 MiniUsage
 appstore 414855915 WinArchiver Lite
 appstore 497799835 Xcode
-
-# Other commands
-git https://github.com/unagoccia/Brewfile.git

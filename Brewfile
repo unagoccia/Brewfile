@@ -62,6 +62,7 @@ cask astah-community
 cask atom
 cask bartender
 cask bettertouchtool
+cask betterzipql
 cask clipmenu
 cask coteditor
 cask dash

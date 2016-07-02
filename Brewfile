@@ -45,6 +45,7 @@ brew postgresql
 brew readline
 brew ruby
 brew sqlite
+brew ssh-copy-id
 brew tree
 brew wget
 brew xz

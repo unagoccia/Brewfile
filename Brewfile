@@ -68,6 +68,7 @@ cask clipmenu
 cask coteditor
 cask dash
 cask day-o
+cask docker
 cask firefox
 cask google-chrome
 cask insomniax

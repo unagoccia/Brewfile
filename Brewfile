@@ -37,7 +37,6 @@ brew maven
 brew mpfr
 brew mysql
 brew nkf
-brew node
 brew nodebrew
 brew openssl
 brew peco
@@ -47,6 +46,7 @@ brew ruby
 brew sqlite
 brew ssh-copy-id
 brew tree
+brew uncrustify
 brew wget
 brew xz
 

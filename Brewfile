@@ -39,6 +39,7 @@ brew mysql
 brew nkf
 brew nodebrew
 brew openssl
+brew packer
 brew peco
 brew postgresql
 brew readline
@@ -79,7 +80,6 @@ cask mysqlworkbench
 cask netbeans
 cask onyx
 cask owasp-zap
-cask packer
 cask pgadmin3
 cask qlcolorcode
 cask qlimagesize
@@ -99,6 +99,11 @@ tap rcmdnk/file
 brew brew-file
 
 tap rcmdnk/rcmdnkpac
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask packer (!)
 
 # App Store applications
 appstore 748212890 Memory Monitor

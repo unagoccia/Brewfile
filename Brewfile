@@ -19,8 +19,11 @@ brew docker
 brew exiftool
 brew freetype
 brew gawk
+brew gettext
+brew git-now
 brew git
 brew gmp
+brew gnu-getopt
 brew gnu-sed
 brew gnu-tar
 brew highlight

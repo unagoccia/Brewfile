@@ -49,6 +49,7 @@ brew readline
 brew ruby
 brew sqlite
 brew ssh-copy-id
+brew tig
 brew tree
 brew uncrustify
 brew wget

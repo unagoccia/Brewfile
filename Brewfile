@@ -110,6 +110,7 @@ tap rcmdnk/rcmdnkpac
 #cask packer (!)
 
 # App Store applications
+appstore 1024640650 CotEditor
 appstore 748212890 Memory Monitor
 appstore 416285394 MiniUsage
 appstore 414855915 WinArchiver Lite

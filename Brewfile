@@ -46,6 +46,7 @@ brew packer
 brew peco
 brew postgresql
 brew readline
+brew rename
 brew ruby
 brew sqlite
 brew ssh-copy-id

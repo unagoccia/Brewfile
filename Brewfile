@@ -79,6 +79,7 @@ cask firefox
 cask google-chrome
 cask insomniax
 cask iterm2
+cask karabiner
 cask limechat
 cask mono-mdk
 cask mysqlworkbench
@@ -93,6 +94,7 @@ cask qlstephen
 cask quicklook-csv
 cask quicklook-json
 cask quicksilver
+cask seil
 cask skitch
 cask the-unarchiver
 cask vagrant

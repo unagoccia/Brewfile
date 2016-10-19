@@ -113,7 +113,6 @@ tap rcmdnk/rcmdnkpac
 #cask packer (!)
 
 # App Store applications
-appstore 1024640650 CotEditor
 appstore 1127487414 Install macOS Sierra
 appstore 748212890 Memory Monitor
 appstore 416285394 MiniUsage

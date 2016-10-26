@@ -43,6 +43,8 @@ cask virtualbox
 cask vmware-fusion
 cask xtrafinder
 
+tap caskroom/fonts
+
 tap caskroom/versions
 cask pgadmin3
 cask thunderbird-ja

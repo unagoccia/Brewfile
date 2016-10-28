@@ -121,7 +121,7 @@ tap rcmdnk/rcmdnkpac
 
 # App Store applications
 appstore 1127487414 Install macOS Sierra (12.0.49)
-appstore 748212890 Memory Monitor (2.3.2)
+appstore 748212890 Memory Monitor (2.3)
 appstore 416285394 MiniUsage (1.5.0)
 appstore 414855915 WinArchiver Lite (2.5.2)
 appstore 497799835 Xcode (8.0)

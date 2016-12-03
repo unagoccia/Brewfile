@@ -70,6 +70,7 @@ brew gmp
 brew gnu-getopt
 brew gnu-sed
 brew gnu-tar
+brew go
 brew highlight
 brew imagemagick
 brew jenv

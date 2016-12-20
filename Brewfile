@@ -54,6 +54,7 @@ brew lftp
 tap homebrew/core
 brew bash
 brew boost
+brew cairo
 brew colordiff
 brew connect
 brew coreutils
@@ -61,11 +62,14 @@ brew corkscrew
 brew docker
 brew docker-machine
 brew exiftool
+brew fontconfig
 brew freetype
 brew gawk
 brew gettext
+brew giflib
 brew git
 brew git-now
+brew glib
 brew gmp
 brew gnu-getopt
 brew gnu-sed
@@ -75,6 +79,7 @@ brew highlight
 brew imagemagick
 brew jenv
 brew jpeg
+brew libffi
 brew libpng
 brew libtiff
 brew libtool
@@ -87,7 +92,9 @@ brew nkf
 brew nodebrew
 brew openssl
 brew packer
+brew pcre
 brew peco
+brew pixman
 brew pkg-config
 brew postgresql
 brew readline

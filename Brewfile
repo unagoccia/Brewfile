@@ -20,9 +20,9 @@ cask firefox
 cask google-chrome
 cask insomniax
 cask iterm2
+cask java
 cask karabiner
 cask limechat
-cask mono-mdk
 cask mysqlworkbench
 cask netbeans
 cask onyx
@@ -37,6 +37,7 @@ cask quicksilver
 cask seil
 cask skitch
 cask the-unarchiver
+cask tiny
 cask vagrant
 cask virtualbox
 cask vmware-fusion
@@ -46,7 +47,6 @@ tap caskroom/fonts
 
 tap caskroom/versions
 cask pgadmin3
-cask thunderbird-ja
 
 tap homebrew/boneyard
 brew lftp
@@ -59,6 +59,7 @@ brew colordiff
 brew connect
 brew coreutils
 brew corkscrew
+brew curl
 brew docker
 brew docker-machine
 brew exiftool
@@ -121,9 +122,14 @@ brew brew-file
 
 tap rcmdnk/rcmdnkpac
 
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask thunderbird-ja (!)
+
 # App Store applications
 appstore 1127487414 Install macOS Sierra (12.0.49)
-appstore 748212890 Memory Monitor (2.3.2)
+appstore 748212890 Memory Monitor (2.3.3)
 appstore 416285394 MiniUsage (1.5.0)
-appstore 414855915 WinArchiver Lite (2.5.2)
+appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 497799835 Xcode (8.2.1)

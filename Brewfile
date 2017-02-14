@@ -24,7 +24,6 @@ cask java
 cask karabiner
 cask limechat
 cask mysqlworkbench
-cask netbeans
 cask onyx
 cask owasp-zap
 cask qlcolorcode
@@ -121,11 +120,6 @@ tap rcmdnk/file
 brew brew-file
 
 tap rcmdnk/rcmdnkpac
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask thunderbird-ja (!)
 
 # App Store applications
 appstore 1127487414 Install macOS Sierra (12.0.49)

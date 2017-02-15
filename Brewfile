@@ -121,6 +121,11 @@ brew brew-file
 
 tap rcmdnk/rcmdnkpac
 
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask thunderbird-ja (!)
+
 # App Store applications
 appstore 1127487414 Install macOS Sierra (12.0.49)
 appstore 748212890 Memory Monitor (2.3.3)

@@ -50,9 +50,9 @@ tap caskroom/versions
 cask pgadmin3
 
 tap homebrew/boneyard
-brew lftp
 
 tap homebrew/core
+brew autoconf
 brew bash
 brew boost
 brew cairo
@@ -82,7 +82,9 @@ brew highlight
 brew imagemagick
 brew jenv
 brew jpeg
+brew lftp
 brew libffi
+brew libidn
 brew libpng
 brew libtiff
 brew libtool
@@ -113,9 +115,9 @@ brew xz
 brew zsh
 
 tap homebrew/dupes
-brew homebrew/dupes/ncurses
 brew libiconv
 brew nano
+brew ncurses
 brew rsync
 
 tap homebrew/versions
@@ -127,14 +129,13 @@ brew brew-file
 
 tap rcmdnk/rcmdnkpac
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask thunderbird-ja (!)
-
 # App Store applications
-appstore 1127487414 Install macOS Sierra (12.0.49)
-appstore 748212890 Memory Monitor (2.3.3)
+appstore 682658836 GarageBand (10.1.6)
+appstore 408981434 iMovie (10.1.4)
+appstore 409183694 Keynote (7.0.5)
+appstore 748212890 Memory Cleaner (2.3.3)
 appstore 416285394 MiniUsage (1.5.0)
+appstore 409203825 Numbers (4.0.5)
+appstore 409201541 Pages (6.0.5)
 appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 497799835 Xcode (8.2.1)

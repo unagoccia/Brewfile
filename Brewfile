@@ -11,6 +11,7 @@ cask atom
 cask bartender
 cask bettertouchtool
 cask betterzipql
+cask cd-to
 cask clipmenu
 cask coteditor
 cask dash
@@ -36,6 +37,7 @@ cask quicksilver
 cask seil
 cask skitch
 cask the-unarchiver
+cask thunderbird
 cask tiny
 cask vagrant
 cask virtualbox
@@ -65,6 +67,7 @@ brew exiftool
 brew fontconfig
 brew freetype
 brew gawk
+brew gdbm
 brew gettext
 brew giflib
 brew git
@@ -107,9 +110,12 @@ brew tree
 brew uncrustify
 brew wget
 brew xz
+brew zsh
 
 tap homebrew/dupes
+brew homebrew/dupes/ncurses
 brew libiconv
+brew nano
 brew rsync
 
 tap homebrew/versions

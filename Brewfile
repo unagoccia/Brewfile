@@ -102,9 +102,11 @@ brew peco
 brew pixman
 brew pkg-config
 brew postgresql
+brew rbenv
 brew readline
 brew rename
 brew ruby
+brew ruby-build
 brew sqlite
 brew ssh-copy-id
 brew tig
@@ -128,11 +130,6 @@ tap rcmdnk/file
 brew brew-file
 
 tap rcmdnk/rcmdnkpac
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask thunderbird-ja (!)
 
 # App Store applications
 appstore 682658836 GarageBand (10.1.6)

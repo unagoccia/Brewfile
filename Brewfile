@@ -12,7 +12,6 @@ cask bartender
 cask bettertouchtool
 cask betterzipql
 cask cd-to
-cask clipmenu
 cask coteditor
 cask dash
 cask day-o
@@ -130,6 +129,11 @@ tap rcmdnk/file
 brew brew-file
 
 tap rcmdnk/rcmdnkpac
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask clipmenu (!)
 
 # App Store applications
 appstore 682658836 GarageBand (10.1.6)

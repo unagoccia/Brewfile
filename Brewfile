@@ -130,10 +130,8 @@ brew brew-file
 
 tap rcmdnk/rcmdnkpac
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask clipmenu (!)
+# Cask applications
+cask clipmenu
 
 # App Store applications
 appstore 682658836 GarageBand (10.1.6)

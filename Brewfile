@@ -83,6 +83,7 @@ brew jenv
 brew jpeg
 brew lftp
 brew libffi
+brew libiconv
 brew libidn
 brew libpng
 brew libtiff
@@ -92,6 +93,8 @@ brew lua
 brew maven
 brew mpfr
 brew mysql
+brew nano
+brew ncurses
 brew nkf
 brew nodebrew
 brew openssl
@@ -104,6 +107,7 @@ brew postgresql
 brew rbenv
 brew readline
 brew rename
+brew rsync
 brew ruby
 brew ruby-build
 brew sqlite
@@ -116,10 +120,6 @@ brew xz
 brew zsh
 
 tap homebrew/dupes
-brew libiconv
-brew nano
-brew ncurses
-brew rsync
 
 tap homebrew/versions
 
@@ -138,7 +138,6 @@ appstore 682658836 GarageBand (10.1.6)
 appstore 408981434 iMovie (10.1.4)
 appstore 409183694 Keynote (7.1)
 appstore 748212890 Memory Cleaner (2.3.4)
-appstore 416285394 MiniUsage (1.5.0)
 appstore 409203825 Numbers (4.1)
 appstore 409201541 Pages (6.1)
 appstore 414855915 WinArchiver Lite (2.5.3)

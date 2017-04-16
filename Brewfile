@@ -135,7 +135,7 @@ cask clipmenu
 
 # App Store applications
 appstore 682658836 GarageBand (10.1.6)
-appstore 408981434 iMovie (10.1.4)
+appstore 408981434 iMovie (10.1.5)
 appstore 409183694 Keynote (7.1)
 appstore 748212890 Memory Cleaner (2.3.4)
 appstore 409203825 Numbers (4.1)

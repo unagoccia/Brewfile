@@ -86,7 +86,6 @@ brew groovy
 brew groovyserv
 brew highlight
 brew imagemagick
-brew jenv
 brew jmeter
 brew jpeg
 brew lftp

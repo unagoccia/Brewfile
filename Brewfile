@@ -7,6 +7,7 @@ brew mas
 tap caskroom/cask
 cask 1password
 cask alfred
+cask appcleaner
 cask atom
 cask bartender
 cask bettertouchtool
@@ -18,10 +19,14 @@ cask day-o
 cask docker
 cask firefox
 cask google-chrome
+cask hyperswitch
 cask insomniax
+cask intellij-idea
 cask iterm2
 cask java
 cask karabiner
+cask keka
+cask licecap
 cask limechat
 cask mysqlworkbench
 cask onyx
@@ -77,9 +82,12 @@ brew gnu-getopt
 brew gnu-sed
 brew gnu-tar
 brew go
+brew groovy
+brew groovyserv
 brew highlight
 brew imagemagick
 brew jenv
+brew jmeter
 brew jpeg
 brew lftp
 brew libffi
@@ -96,9 +104,11 @@ brew mysql
 brew nano
 brew ncurses
 brew nkf
+brew nmap
 brew nodebrew
 brew openssl
 brew packer
+brew pandoc
 brew pcre
 brew peco
 brew pixman
@@ -134,11 +144,14 @@ tap rcmdnk/rcmdnkpac
 cask clipmenu
 
 # App Store applications
+appstore 448189857 CPULed (1.3)
 appstore 682658836 GarageBand (10.1.6)
 appstore 408981434 iMovie (10.1.5)
 appstore 409183694 Keynote (7.1.1)
 appstore 748212890 Memory Cleaner (2.3.5)
+appstore 416285394 MiniUsage (1.5.0)
 appstore 409203825 Numbers (4.1.1)
 appstore 409201541 Pages (6.1.1)
+appstore 844918735 PicGIF Lite (2.0.8)
 appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 497799835 Xcode (8.3.2)

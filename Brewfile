@@ -1,8 +1,90 @@
 
 # tap repositories and their packages
 
-tap argon/mas
+tap homebrew/core
+brew autoconf
+brew bash
+brew boost
+brew cairo
+brew colordiff
+brew connect
+brew coreutils
+brew corkscrew
+brew curl
+brew docker
+brew docker-machine
+brew exiftool
+brew fish
+brew fontconfig
+brew freetype
+brew gawk
+brew gdbm
+brew gettext
+brew ghq
+brew giflib
+brew git
+brew git-now
+brew glib
+brew gmp
+brew gnu-getopt
+brew gnu-sed
+brew gnu-tar
+brew go
+brew groovy
+brew groovyserv
+brew highlight
+brew imagemagick
+brew jenv
+brew jmeter
+brew jpeg
+brew lftp
+brew libffi
+brew libiconv
+brew libidn
+brew libpng
+brew libtiff
+brew libtool
+brew libyaml
+brew lua
 brew mas
+brew maven
+brew mpfr
+brew mysql
+brew nano
+brew ncurses
+brew nkf
+brew nmap
+brew nodebrew
+brew openssl
+brew openssl@1.1
+brew packer
+brew pandoc
+brew pcre
+brew pcre2
+brew peco
+brew pixman
+brew pkg-config
+brew postgresql
+brew rbenv
+brew readline
+brew rename
+brew rsync
+brew ruby
+brew ruby-build
+brew sqlite
+brew ssh-copy-id
+brew tig
+brew tree
+brew uncrustify
+brew wget
+brew xz
+brew zsh
+
+tap homebrew/boneyard
+
+tap homebrew/dupes
+
+tap homebrew/versions
 
 tap caskroom/cask
 cask 1password
@@ -16,6 +98,7 @@ cask cd-to
 cask coteditor
 cask dash
 cask day-o
+cask docker-toolbox
 cask docker
 cask firefox
 cask google-chrome
@@ -53,84 +136,7 @@ tap caskroom/fonts
 tap caskroom/versions
 cask pgadmin3
 
-tap homebrew/boneyard
-
-tap homebrew/core
-brew autoconf
-brew bash
-brew boost
-brew cairo
-brew colordiff
-brew connect
-brew coreutils
-brew corkscrew
-brew curl
-brew docker
-brew docker-machine
-brew exiftool
-brew fontconfig
-brew freetype
-brew gawk
-brew gdbm
-brew gettext
-brew giflib
-brew git
-brew git-now
-brew glib
-brew gmp
-brew gnu-getopt
-brew gnu-sed
-brew gnu-tar
-brew go
-brew groovy
-brew groovyserv
-brew highlight
-brew imagemagick
-brew jmeter
-brew jpeg
-brew lftp
-brew libffi
-brew libiconv
-brew libidn
-brew libpng
-brew libtiff
-brew libtool
-brew libyaml
-brew lua
-brew maven
-brew mpfr
-brew mysql
-brew nano
-brew ncurses
-brew nkf
-brew nmap
-brew nodebrew
-brew openssl
-brew packer
-brew pandoc
-brew pcre
-brew peco
-brew pixman
-brew pkg-config
-brew postgresql
-brew rbenv
-brew readline
-brew rename
-brew rsync
-brew ruby
-brew ruby-build
-brew sqlite
-brew ssh-copy-id
-brew tig
-brew tree
-brew uncrustify
-brew wget
-brew xz
-brew zsh
-
-tap homebrew/dupes
-
-tap homebrew/versions
+tap argon/mas
 
 tap phinze/cask
 
@@ -143,14 +149,13 @@ tap rcmdnk/rcmdnkpac
 cask clipmenu
 
 # App Store applications
+appstore 748212890 Cleaner for Memory (2.4.3)
 appstore 448189857 CPULed (1.3)
-appstore 682658836 GarageBand (10.1.6)
-appstore 408981434 iMovie (10.1.5)
-appstore 409183694 Keynote (7.1.1)
-appstore 748212890 Memory Cleaner (2.3.5)
+appstore 682658836 GarageBand (10.2.0)
+appstore 408981434 iMovie (10.1.7)
+appstore 409183694 Keynote (7.3)
 appstore 416285394 MiniUsage (1.5.0)
-appstore 409203825 Numbers (4.1.1)
-appstore 409201541 Pages (6.1.1)
-appstore 844918735 PicGIF Lite (2.0.8)
+appstore 409203825 Numbers (4.3)
+appstore 409201541 Pages (6.3)
 appstore 414855915 WinArchiver Lite (2.5.3)
-appstore 497799835 Xcode (8.3.2)
+appstore 497799835 Xcode (9.0.1)

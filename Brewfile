@@ -41,9 +41,11 @@ brew lftp
 brew libffi
 brew libiconv
 brew libidn
+brew libidn2
 brew libpng
 brew libtiff
 brew libtool
+brew libunistring
 brew libyaml
 brew lua
 brew mas
@@ -93,7 +95,6 @@ cask appcleaner
 cask atom
 cask bartender
 cask bettertouchtool
-cask betterzipql
 cask cd-to
 cask coteditor
 cask dash
@@ -129,7 +130,6 @@ cask tiny
 cask vagrant
 cask virtualbox
 cask vmware-fusion
-cask xtrafinder
 
 tap caskroom/fonts
 
@@ -146,7 +146,9 @@ brew brew-file
 tap rcmdnk/rcmdnkpac
 
 # Cask applications
+cask betterzipql
 cask clipmenu
+cask xtrafinder
 
 # App Store applications
 appstore 748212890 Cleaner for Memory (2.4.3)
@@ -160,4 +162,4 @@ appstore 409203825 Numbers (4.3.1)
 appstore 409201541 Pages (6.3.1)
 appstore 844918735 PicGIF Lite (2.0.8)
 appstore 414855915 WinArchiver Lite (2.5.3)
-appstore 497799835 Xcode (9.1)
+appstore 497799835 Xcode (9.2)

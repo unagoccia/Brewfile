@@ -90,6 +90,7 @@ tap homebrew/versions
 
 tap caskroom/cask
 cask 1password
+cask adobe-air
 cask alfred
 cask appcleaner
 cask atom
@@ -105,7 +106,6 @@ cask firefox
 cask google-chrome
 cask hyperswitch
 cask insomniax
-cask intellij-idea
 cask iterm2
 cask java
 cask karabiner
@@ -125,7 +125,6 @@ cask quicksilver
 cask seil
 cask skitch
 cask the-unarchiver
-cask thunderbird
 cask tiny
 cask vagrant
 cask virtualbox
